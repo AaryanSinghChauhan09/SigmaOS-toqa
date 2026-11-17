@@ -3,7 +3,7 @@ name = "SigmaOS-toqa"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "toqa component"
+description = "toqa platform GUI toolkit component"
 upstream = []
 
 [contract]
